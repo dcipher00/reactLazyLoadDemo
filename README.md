@@ -1,3 +1,9 @@
+# Demo
+
+<img src="https://github.com/dcipher00/reactLazyLoadDemo/blob/main/gif/reactlazyloaddemo.gif"> 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
